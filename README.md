@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center">100套网站错误页模板如403，404，500等。</h1></p>
+# 100套网站错误页模板
 
 
 <a href="https://blog.csdn.net/file_data/article/details/99640009?spm=1001.2014.3001.5502"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
