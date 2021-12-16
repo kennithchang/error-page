@@ -1,5 +1,22 @@
-## Directory Structure
-```bash
+<p align="center"><h1 align="center">100套网站错误页模板如403，404，500等。</h1></p>
+
+</br></br>
+
+<p align="center">
+  <a href="https://blog.csdn.net/file_data/article/details/99640009?spm=1001.2014.3001.5502"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cloudResource/error-page">
+</p>
+
+
+#### 项目背景
+
+
+在web项目开发中往往需要准备403、404、500等报错页面，网络上资源良莠不齐，而且大多数都是收费的，甚至一个页面一收费的那种，前前后后不管是自己开发的还是付费的收集了不少，于是打算整理下，免费分享给大家，以免大家再走冤枉路。如果大家有珍藏的好模板，欢迎大家继续补充贡献！！！
+
+
+#### 目录结构
+
+```
 error-page  
 ├── error_400              # http 400 error pages
 │   └── page               # resource pack
@@ -10,4 +27,9 @@ error-page
 │       ├── 500.html         
 │       └── main.css       
 └── README.md  
+```
+#### 温馨提示：更多模板陆续更新中
+
+```
+如果觉得对你有对您有帮助，您可以点右上角 💘Star💘支持,谢谢！～
 ```
