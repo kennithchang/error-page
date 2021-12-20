@@ -33,7 +33,7 @@ error-page
 ```
 **error_400/page_1**[在线预览](https://cloudresource.github.io/error-page/error_400/page_1/404.html)
 
-#### 温馨提示：更多模板陆续更新中
+### 温馨提示：更多模板陆续更新中
 
 ```
 如果觉得对你有对您有帮助，您可以点右上角 💘Star💘支持,谢谢！～
