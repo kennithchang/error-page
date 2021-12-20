@@ -33,6 +33,7 @@ error-page
 ```
 **error_400/page_1** [在线预览](https://cloudresource.github.io/error-page/error_400/page_1/404.html)  
 **error_400/page_2** [在线预览](https://cloudresource.github.io/error-page/error_400/page_2/404.html)  
+<img src="https://cloudresource.github.io/error-page/error_400/page_2/effect.gif" width="100%" />
 **error_400/page_3** [在线预览](https://cloudresource.github.io/error-page/error_400/page_3/404.html)  
 
 ### 温馨提示：更多模板陆续更新中
