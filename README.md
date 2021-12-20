@@ -31,7 +31,7 @@ error-page
 ```
 在线预览时，有可能因为GithubPages浏览器环境问题，导致页面不兼容，不能正常显示，请以截图为准，或下载到本地测试预览,感谢支持！～
 ```
-##### 001 服务大数据可视化监管平台 [在线预览](https://iGaoWei.github.io/BigDataView/web/001%20%E6%9C%8D%E5%8A%A1%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9B%91%E7%AE%A1%E5%B9%B3%E5%8F%B0/)
+##### 001 服务大数据可视化监管平台 [在线预览](https://cloudresource.github.io/error-page/web/blob/main/error_400/page_1/404.html)
 
 #### 温馨提示：更多模板陆续更新中
 
