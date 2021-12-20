@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush');
+body{
+    margin:0;
+    background-color: #F4E04D;
+    font-family: Permanent Marker;
+}
+.container{
+    height: 500px;
+    width: 100%;
+    position: absolute;  
+}
+.wall{
+    position: absolute;
+    top:12%;
+    left: 50%;
+    height:25%;
+    transform: translate(-50%,-50%);
+}
+.wall::before{
+    content: '5';
+    position: absolute;
+    font-family: Caveat Brush;
+    font-size: 330px;
+    left:-40%;
+    top:-10%;
+    animation: sl  ease 1s forwards;
+}
+.wall::after{
+    content: '0';
+    position: absolute;
+    font-family: Caveat Brush;
+    font-size: 330px;
+    right:-40%;
+    top:-10%;
+    animation: sl  ease 1s forwards;
+}
+.errortext h1{
+    position: absolute;
+    top:63%;
+    left:50%;
+    transform: translateX(-50%);
+    font-size: 2.5vw;
+}
+.errortext h2{
+    position: absolute;
+    top:70%;
+    left:50%;
+    transform: translateX(-50%);
+    font-size: 2vw;
+}
+a{
+    color: #000000;
+}
+@keyframes sl{
+    0%{ transform: scale(0.8);}
+    50%{ transform: scale(1.5);}
+    100% {transform: scale(1);}
+}

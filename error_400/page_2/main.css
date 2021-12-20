@@ -1,59 +1,95 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
-@import url('https://fonts.googleapis.com/css?family=Caveat+Brush');
+*{
+	padding:0px;
+	margin:0px;
+}
 body{
-    margin:0;
-    background-color: #F4E04D;
-    font-family: Permanent Marker;
+		background:black;
+	}
+.st0{font-family:'FootlightMTLight';}
+.st1{font-size:83.0285px;}
+.st2{fill:gray;}
+
+svg{
+  width: 500px;
+    height: 400px;
+    text-align: center;
+    fill: #16a085;
 }
-.container{
-    height: 500px;
-    width: 100%;
-    position: absolute;  
+path#XMLID_5_ {
+   
+    fill: #16a085;
+    filter: url(#blurFilter4);
 }
-.wall{
-    position: absolute;
-    top:12%;
-    left: 50%;
-    height:25%;
-    transform: translate(-50%,-50%);
+path#XMLID_11_ ,path#XMLID_2_ {
+    fill: #16a085;
 }
-.wall::before{
-    content: '5';
-    position: absolute;
-    font-family: Caveat Brush;
-    font-size: 330px;
-    left:-40%;
-    top:-10%;
-    animation: sl  ease 1s forwards;
+.circle{
+  animation: out 2s infinite ease-out;
+  fill: #16a085;
 }
-.wall::after{
-    content: '0';
-    position: absolute;
-    font-family: Caveat Brush;
-    font-size: 330px;
-    right:-40%;
-    top:-10%;
-    animation: sl  ease 1s forwards;
+
+#container{
+  text-align:center;
 }
-.errortext h1{
-    position: absolute;
-    top:63%;
-    left:50%;
-    transform: translateX(-50%);
-    font-size: 2.5vw;
+.message{
+	color:#16a085;
 }
-.errortext h2{
-    position: absolute;
-    top:70%;
-    left:50%;
-    transform: translateX(-50%);
-    font-size: 2vw;
+.message:after{
+	content:"]";
 }
-a{
-    color: #000000;
+.message:before{
+	content:"[";
 }
-@keyframes sl{
-    0%{ transform: scale(0.8);}
-    50%{ transform: scale(1.5);}
-    100% {transform: scale(1);}
+
+.message:after, .message:before {
+  
+  color: #16a085;
+  font-size: 20px;
+  -webkit-animation-name: opacity;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-name: opacity;
+          animation-name: opacity;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+          margin:0 50px;
 }
+
+@-webkit-keyframes opacity {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes opacity {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes out {
+  0% {r:1;  opacity: 0.9 ;}
+  25%{r:5;  opacity: 0.3 ;}
+  50%{r:10; opacity: 0.2 ;}
+  75%{r:15;opacity:0.1;}
+ 	100% {r:20;opacity:0;}
+}
+
+
+
+
+
+
+
+
+
+  
+  	
