@@ -36,7 +36,7 @@ error-page
 **error_400/page_2** [在线预览](https://cloudresource.github.io/error-page/error_400/page_2/404.html)  
 <img src="https://cloudresource.github.io/error-page/error_400/page_2/effect.gif" width="100%" />  
 **error_400/page_3** [在线预览](https://cloudresource.github.io/error-page/error_400/page_3/404.html)  
-<img src="https://cloudresource.github.io/error-page/error_400/page_3/effect.gif" width="100%" />  
+<img src="https://cloudresource.github.io/error-page/error_400/page_3/effect.png" width="100%" />  
 **error_500/page_1** [在线预览](https://cloudresource.github.io/error-page/error_500/page_1/500.html)  
 <img src="https://cloudresource.github.io/error-page/error_500/page_1/effect.gif" width="100%" />  
 **error_500/page_2** [在线预览](https://cloudresource.github.io/error-page/error_500/page_2/500.html)  
