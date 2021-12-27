@@ -1,7 +1,7 @@
 # 100套网站错误页模板
 
 
-<a href="https://blog.csdn.net/file_data/article/details/99640009?spm=1001.2014.3001.5502"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
+<a href="https://blog.csdn.net/file_data/article/details/122041049?spm=1001.2014.3001.5501"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cloudResource/error-page">
 
 
@@ -32,11 +32,15 @@ error-page
 在线预览时，有可能因为GithubPages浏览器环境问题，导致页面不兼容，不能正常显示，请以截图为准，或下载到本地测试预览,感谢支持！～
 ```
 **error_400/page_1** [在线预览](https://cloudresource.github.io/error-page/error_400/page_1/404.html)  
-<img src="https://cloudresource.github.io/error-page/error_400/page_1/effect.gif" width="100%" />
+<img src="https://cloudresource.github.io/error-page/error_400/page_1/effect.gif" width="100%" />  
 **error_400/page_2** [在线预览](https://cloudresource.github.io/error-page/error_400/page_2/404.html)  
 <img src="https://cloudresource.github.io/error-page/error_400/page_2/effect.gif" width="100%" />  
+**error_400/page_3** [在线预览](https://cloudresource.github.io/error-page/error_400/page_3/404.html)  
+<img src="https://cloudresource.github.io/error-page/error_400/page_3/effect.gif" width="100%" />  
 **error_500/page_1** [在线预览](https://cloudresource.github.io/error-page/error_500/page_1/500.html)  
-<img src="https://cloudresource.github.io/error-page/error_500/page_1/effect.gif" width="100%" />
+<img src="https://cloudresource.github.io/error-page/error_500/page_1/effect.gif" width="100%" />  
+**error_500/page_2** [在线预览](https://cloudresource.github.io/error-page/error_500/page_2/500.html)  
+<img src="https://cloudresource.github.io/error-page/error_500/page_2/effect.gif" width="100%" />  
 
 ### 温馨提示：更多模板陆续更新中
 ```
